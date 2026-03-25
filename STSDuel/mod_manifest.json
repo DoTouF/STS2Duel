@@ -1,0 +1,11 @@
+{
+  "id": "STS2Duel",
+  "pck_name": "STS2Duel",
+  "name": "STS2 Duel",
+  "author": "너의이름",
+  "description": "타임어택 레이스 모드 - 1v1 ~ 4v4",
+  "version": "0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": true
+}
